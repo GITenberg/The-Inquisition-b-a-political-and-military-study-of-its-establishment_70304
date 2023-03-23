@@ -1,0 +1,27 @@
+_repo: The-Inquisition-b-a-political-and-military-study-of-its-establishment_70304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nickerson, Hoffman
+    gutenberg_agent_id: '55694'
+    url: http://www.gutenberg.org/2009/agents/55694
+description: ''
+gutenberg_issued: '2023-03-16'
+identifiers:
+  gutenberg: '70304'
+language: en
+pgterms:marc904: https://archive.org/details/inquisitionpolit00nick/page/n5
+pgterms:marc905: 20190114234529nickerson
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bJohn Bale, Sons & Danielsson, Ltd., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Inquisition : $b a political and military study of its establishment'
+url: http://www.gutenberg.org/ebooks/70304
