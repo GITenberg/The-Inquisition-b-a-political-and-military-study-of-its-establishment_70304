@@ -1,11 +1,16 @@
 _repo: The-Inquisition-b-a-political-and-military-study-of-its-establishment_70304
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70304-h/images/cover.jpg
 creator:
   author:
     agent_name: Nickerson, Hoffman
     gutenberg_agent_id: '55694'
     url: http://www.gutenberg.org/2009/agents/55694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70304#The-Inquisition-b-a-political-and-military-study-of-its-establishment
 gutenberg_issued: '2023-03-16'
 identifiers:
   gutenberg: '70304'
